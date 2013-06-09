@@ -1,0 +1,20 @@
+Here is list of my refrence papers for my project area:
+
+@article{chen2004tcp,
+  title={TCP performance over mobile ad hoc networks},
+  author={Chen, Xiang and Zhai, Hongqiang and Wang, Jianfeng and Fang, Yuguang},
+  journal={Electrical and Computer Engineering, Canadian Journal of},
+  volume={29},
+  number={1/2},
+  pages={129--134},
+  year={2004},
+  publisher={IEEE}
+}
+@inproceedings{wang2002improving,
+  title={Improving TCP performance over mobile ad-hoc networks with out-of-order detection and response},
+  author={Wang, Feng and Zhang, Yongguang},
+  booktitle={Proceedings of the 3rd ACM international symposium on Mobile ad hoc networking \& computing},
+  pages={217--225},
+  year={2002},
+  organization={ACM}
+}
