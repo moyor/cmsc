@@ -1,3 +1,3 @@
 cmsc
 ====
-this is my test..
+The main directory for my project.
