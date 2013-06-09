@@ -1,0 +1,14 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\title{CMSC 6950\\ Term Project \\  TCP performance in  MANET  with TCL Script  }
+\date{\today}
+\author{Norbert Obiekwe:201093721\\ Computer Science,MUN}
+  	% expects file "myrefs.bib"
+\begin{document}
+\maketitle
+
+
+
+
+
+\end{document}
