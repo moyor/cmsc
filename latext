@@ -9,6 +9,20 @@
 
 
 
-my code here
-I will add codes here
+\section{Background and Motivation}
+
+My project background is on mobile ad hoc networks (MANET) and using a TCL script 
+to create parameters for visualizing TCP reactions as TCP  packet travel from one 
+node to another in a MANET environment.A mobile ad-hoc network (MANET) is a special type 
+of wireless networks. It consists of a collection of peer mobile nodes that are capable 
+of communicating with each other without help from a fixed  infrastructure \cite{chen2004tcp} 
+The interconnections between nodes are capable of changing on a continual and arbitrary basis. 
+Nodes within each other's radio range communicate directly via wireless links, while those that 
+are far apart use other nodes as relays in a multi-hop routing fashion. This kind of network (MANET) 
+is mostly being utilized by the military and in remote emergency situations where a network is needed.
+\\A MANET just like a normal structured network is powered by a  network protocol know as 
+Transport Control Protocol(TCP), however, the TCP performance in MANET is not so optimized like
+in a structured network in that there are still performance issues with TCP in MANET. As a result, 
+this  performance issues adversely  affects the MANET performance. 
+
 \end{document}
